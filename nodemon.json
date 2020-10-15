@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "trevor",
+    "DB_PASSWORD": "DwG1YRYBbqbduDvw",
+    "DB_NAME": "mern",
+    "GOOGLE_API_KEY": "AIzaSyCetymWOGRRP7anXZenXABVey5F6EAcfx4",
+    "JWT_KEY": "pk_dont_share"
+  }
+}
